@@ -8,7 +8,7 @@ from transformers import pipeline
 import pyttsx3
 
 # Configure Google Generative AI
-genai.configure(api_key="AIzaSyCRbnEmx-3tgblNCzwFc5EE5CiQ_IBipYk")
+genai.configure(api_key="haha")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Load Emotion Detection Model
